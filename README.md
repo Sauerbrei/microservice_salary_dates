@@ -1,4 +1,4 @@
-# Salary Date Microservice
+# Salary Date Calculator Command
 ## Usage
 
 ### List all available commands
