@@ -1,4 +1,4 @@
-# Teufel BIKINI Challenge
+# Salary Date Calculator Command
 ## Usage
 
 ### List all available commands
