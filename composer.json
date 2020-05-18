@@ -1,6 +1,8 @@
 {
+    "name": "sauerbrei/teufel_challenge",
     "type": "project",
     "license": "proprietary",
+    "description": "Coding Challenge",
     "require": {
         "php": "^7.2.5",
         "ext-ctype": "*",
