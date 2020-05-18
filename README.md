@@ -1,4 +1,4 @@
-# Teufel BIKINI Challenge
+# Salary Date Microservice
 ## Usage
 
 ### List all available commands
